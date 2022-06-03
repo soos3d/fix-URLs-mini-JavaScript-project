@@ -2,6 +2,11 @@
 
 This is a very simple JavaScript project to show some string manipulation and if statement logic. Making practical applications is the best way to learn, even if it's something this simple.
 
+## Files in this repo
+
+- `index.html` -> Holds the code to show the webpage.
+- `script.js` -> Holds the code that gives functionality to the page.
+
 ## What does it do?
 The idea of this application, is to teach the logic behind simple string manipulation.
 A user can input a website address, and the program will add HTTPS:// to it, creating a functioning URL.
@@ -24,8 +29,8 @@ A user can input a website address, and the program will add HTTPS:// to it, cre
 ## How to run it
 To run it:
 
- - Save the `index.html` file in a folder on your computer.
- - Open it in a browser.
+ - Save the `index.html` and `script.js` files in a folder on your computer.
+ - Open the `index.html` file in a browser.
 
 Insert a webpage address.
 
